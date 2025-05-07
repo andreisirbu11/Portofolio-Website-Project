@@ -35,9 +35,9 @@ _No JavaScript was used in this project._
 To run this project locally:
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/portfolio-website.git`
+   `git clone https://github.com/andreisirbu11/Portofolio-Website-Project-.git`
 
-2. Open `index.html` in your browser
+3. Open `index.html` in your browser
 
 That’s it! No build tools or installations are required.
 
